@@ -1,0 +1,9 @@
+{
+	"name": "atena-plugin-manager",
+	"description": "Plugin manager for Delphi",
+	"version": "1.0.0",
+	"homepage": "https://github.com/CarlosHe/atena-plugin-manager",
+	"mainsrc": "./src/",
+	"projects": [],
+	"dependencies": {}
+}
